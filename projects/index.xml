@@ -2,27 +2,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Projects on Ryan Marcus Jeremy Lupague</title>
-    <link>example.org/projects/</link>
+    <link>https://alphiree.github.io/website/projects/</link>
     <description>Recent content in Projects on Ryan Marcus Jeremy Lupague</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 15 Mar 2023 11:30:03 +0000</lastBuildDate><atom:link href="example.org/projects/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 15 Mar 2023 11:30:03 +0000</lastBuildDate><atom:link href="https://alphiree.github.io/website/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Integrated Machine Learning Model For Comprehensive Heart Disease Risk Assessment Based On Multi-Dimensional Health Factors</title>
-      <link>example.org/projects/cvd_risk_prediction/</link>
+      <link>https://alphiree.github.io/website/projects/cvd_risk_prediction/</link>
       <pubDate>Wed, 15 Mar 2023 11:30:03 +0000</pubDate>
       
-      <guid>example.org/projects/cvd_risk_prediction/</guid>
+      <guid>https://alphiree.github.io/website/projects/cvd_risk_prediction/</guid>
       <description>Web Application can be accessed here! (CVD Risk Prediction) This project processed and analyzed 438,693 records of data from the 2021 BRFSS data from CDC. Machine Leaning models were utilized to predict the risk of developing CVDs by only using personal lifestyle factors. The Logistic Regression model was able to predict the people that are at risk of CVDs with 79.18% accuracy.
 Developed a web application for this study using Streamlit.</description>
     </item>
     
     <item>
       <title>DeepBark: Dog Breed Classification with Image Segmentation and Localization</title>
-      <link>example.org/projects/deepbark/</link>
+      <link>https://alphiree.github.io/website/projects/deepbark/</link>
       <pubDate>Wed, 15 Feb 2023 11:30:03 +0000</pubDate>
       
-      <guid>example.org/projects/deepbark/</guid>
+      <guid>https://alphiree.github.io/website/projects/deepbark/</guid>
       <description>Source code can be accessed here! Developed a deep learning model to accurately predict the breed of dogs, achieving an overall accuracy score of 96% across 70 different dog breeds.
 Employed image localization methods to visualize and interpret the specific areas in the images that influenced the model’s predictions, providing insights into the decision-making process.
 To run the script in your local machine, do the following: Clone the repository from the source code.</description>
