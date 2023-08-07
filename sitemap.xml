@@ -3,12 +3,15 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://ryanlupague.dev/</loc>
-    <lastmod>2023-04-15T11:30:03+00:00</lastmod>
+    <lastmod>2023-08-01T11:30:03+00:00</lastmod>
   </url><url>
-    <loc>https://ryanlupague.dev/projects/deepbark/</loc>
-    <lastmod>2023-04-15T11:30:03+00:00</lastmod>
+    <loc>https://ryanlupague.dev/projects/automated-data-analysis/</loc>
+    <lastmod>2023-08-01T11:30:03+00:00</lastmod>
   </url><url>
     <loc>https://ryanlupague.dev/projects/</loc>
+    <lastmod>2023-08-01T11:30:03+00:00</lastmod>
+  </url><url>
+    <loc>https://ryanlupague.dev/projects/deepbark/</loc>
     <lastmod>2023-04-15T11:30:03+00:00</lastmod>
   </url><url>
     <loc>https://ryanlupague.dev/projects/cvd_risk_prediction/</loc>

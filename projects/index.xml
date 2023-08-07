@@ -6,16 +6,23 @@
     <description>Recent content in Projects on Ryan Marcus Jeremy Lupague</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 15 Apr 2023 11:30:03 +0000</lastBuildDate><atom:link href="https://ryanlupague.dev/projects/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 01 Aug 2023 11:30:03 +0000</lastBuildDate><atom:link href="https://ryanlupague.dev/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Automated Data Analysis</title>
+      <link>https://ryanlupague.dev/projects/automated-data-analysis/</link>
+      <pubDate>Tue, 01 Aug 2023 11:30:03 +0000</pubDate>
+      
+      <guid>https://ryanlupague.dev/projects/automated-data-analysis/</guid>
+      <description>The Automated EDA Analysis project revolves around a web application designed to streamline the process of Exploratory Data Analysis (EDA) for datasets.</description>
+    </item>
+    
     <item>
       <title>DeepBark: Dog Breed Classification with Image Segmentation and Localization</title>
       <link>https://ryanlupague.dev/projects/deepbark/</link>
       <pubDate>Sat, 15 Apr 2023 11:30:03 +0000</pubDate>
       
       <guid>https://ryanlupague.dev/projects/deepbark/</guid>
-      <description>Source code can be accessed here! Developed a deep learning model to accurately predict the breed of dogs, achieving an overall accuracy score of 96% across 70 different dog breeds.
-Employed image localization methods to visualize and interpret the specific areas in the images that influenced the model’s predictions, providing insights into the decision-making process.
-To run the script in your local machine, do the following: Clone the repository from the source code.</description>
+      <description>Developed a deep learning model to accurately predict the breed of dogs, achieving an overall accuracy score of 96% across 70 different dog breeds.</description>
     </item>
     
     <item>
@@ -24,8 +31,7 @@ To run the script in your local machine, do the following: Clone the repository 
       <pubDate>Wed, 15 Feb 2023 11:30:03 +0000</pubDate>
       
       <guid>https://ryanlupague.dev/projects/cvd_risk_prediction/</guid>
-      <description>Web Application can be accessed here! (CVD Risk Prediction) This project processed and analyzed 438,693 records of data from the 2021 BRFSS data from CDC. Machine Leaning models were utilized to predict the risk of developing CVDs by only using personal lifestyle factors. The Logistic Regression model was able to predict the people that are at risk of CVDs with 79.18% accuracy.
-Developed a web application for this study using Streamlit.</description>
+      <description>This project processed and analyzed 438,693 records of data from the 2021 BRFSS data from CDC. Machine Leaning models were utilized to predict the risk of developing CVDs by only using personal lifestyle factors.</description>
     </item>
     
   </channel>
